@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+    border:solid 4px #008000;
+    border-radius: 10px;
+    margin-right: 50px;
+
+}
+.class{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+
+
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-left: 20px;
+
+}
+h2{
+    font-size: 24px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: hotpink;
+    border-bottom:solid 2px violet;
+    display:inline-block;
+}
+.pop{
+    margin-left:20px;
+}
+img{
+    width:180px;
+    border-radius: 10%;
+    height:190px;
+    
+
+
+  
+    
+
+    
+    
+}
